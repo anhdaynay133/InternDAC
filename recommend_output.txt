@@ -1,0 +1,5 @@
+('20.000 tỉ đồng lãi suất ưu đãi được dành cho công nhân', 'https://tuoitre.vn/20-000-ti-dong-lai-suat-uu-dai-duoc-danh-cho-cong-nhan-20220808141602015.htm', 'Kinh doanh')
+('Nhiều người dân ‘ngậm đắng’ trước mánh khóe ‘mua hàng trả lại tiền’', 'https://tuoitre.vn/nhieu-nguoi-dan-ngam-dang-truoc-manh-khoe-mua-hang-tra-lai-tien-20220808125317114.htm', 'Kinh doanh')
+('Mang Phở đến triển lãm sâm Ngọc Linh là một ý tưởng hấp dẫn', 'https://tuoitre.vn/mang-pho-den-trien-lam-sam-ngoc-linh-la-mot-y-tuong-hap-dan-20220808181759532.htm', 'Kinh doanh')
+('Không có người ký báo cáo tài chính, FLC Faros kiến nghị giải quyết nhanh thủ tục để cứu cổ phiếu', 'https://tuoitre.vn/khong-co-nguoi-ky-bao-cao-tai-chinh-flc-faros-kien-nghi-giai-quyet-nhanh-thu-tuc-de-cuu-co-phieu-20220808171252935.htm', 'Kinh doanh')
+('Giảm thuế nhập khẩu xăng dầu xuống 10%', 'https://tuoitre.vn/giam-thue-nhap-khau-xang-dau-xuong-10-2022080818555568.htm', 'Kinh doanh')
